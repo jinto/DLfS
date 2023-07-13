@@ -4,6 +4,9 @@
 ## 1권
 [밑바닥부터 시작하는 딥러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=99518713)
 
-### 1창 파이썬 기초
+### 1장 파이썬 기초
 - [numpy](https://github.com/jinto/DLfS/blob/main/book1-01/01-1_numpy.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-01/01-1_numpy.ipynb))
 - [matplot](https://github.com/jinto/DLfS/blob/main/book1-01/01-2_matplot.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-01/01-2_matplot.ipynb))
+
+### 2장 퍼셉트론
+- [perceptron](https://github.com/jinto/DLfS/blob/main/book1-02/02-perceptron.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-02/02-perceptron.ipynb))
