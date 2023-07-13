@@ -8,4 +8,4 @@ jupyter notebook
 ```
 
 # pdf 만들기
-크롬에서 save to html -> open html -> print -> save as pdf
+크롬에서 print -> save as pdf
