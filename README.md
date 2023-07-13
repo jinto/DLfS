@@ -15,3 +15,5 @@
 - [nn](https://github.com/jinto/DLfS/blob/main/book1-03/03-1-nn.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-03/03-1-nn.ipynb))
 - [softmax](https://github.com/jinto/DLfS/blob/main/book1-03/03-5-softmax.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-03/03-5-softmax.ipynb))
 - [mnist](https://github.com/jinto/DLfS/blob/main/book1-03/03-6-mnist.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-03/03-6-mnist.ipynb))
+
+
