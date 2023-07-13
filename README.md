@@ -16,4 +16,8 @@
 - [softmax](https://github.com/jinto/DLfS/blob/main/book1-03/03-5-softmax.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-03/03-5-softmax.ipynb))
 - [mnist](https://github.com/jinto/DLfS/blob/main/book1-03/03-6-mnist.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-03/03-6-mnist.ipynb))
 
-
+### 4장 신경망 학습
+- [mse](https://github.com/jinto/DLfS/blob/main/book1-04/04_02_mse.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-04/04_02_mse.ipynb))
+- [differential](https://github.com/jinto/DLfS/blob/main/book1-04/04_03_differential.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-04/04_03_differential.ipynb))
+- [gradient descent](https://github.com/jinto/DLfS/blob/main/book1-04/04_04_gradient_descent.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-04/04_04_gradient_descent.ipynb))
+- [training algorithm](https://github.com/jinto/DLfS/blob/main/book1-04/04_05_training_algorithm.pdf) ([ipynb](https://github.com/jinto/DLfS/blob/main/book1-04/04_05_training_algorithm.ipynb))
